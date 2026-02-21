@@ -1,0 +1,24 @@
+{
+  "name": "Neuvates じぶんみっけ！",
+  "short_name": "じぶんみっけ！",
+  "description": "自分の「思考スタイル」と「こころとからだの状態」を科学的に分析して、もっと自分を知ろう！",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f7f4",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
